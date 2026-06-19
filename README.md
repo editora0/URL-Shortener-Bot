@@ -3,6 +3,11 @@
   <p><strong>A Powerful Telegram Bot for Shortening URLs with Full Admin Panel</strong></p>
   
   <p>
+    <a href="#english"><strong>English</strong></a> •
+    <a href="#persian"><strong>فارسی</strong></a>
+  </p>
+  
+  <p>
     <img src="https://img.shields.io/badge/PHP-7.0%2B-blue.svg" alt="PHP Version">
     <img src="https://img.shields.io/badge/Python-3.7%2B-green.svg" alt="Python Version">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
@@ -12,7 +17,10 @@
 
 ---
 
-## ✨ Features
+<a id="english"></a>
+## 🇬🇧 English
+
+### ✨ Features
 
 <table>
   <tr>
@@ -51,7 +59,7 @@
 
 ---
 
-## 🚀 Versions
+### 🚀 Versions
 
 | Version | Language | Best For | Method |
 |---------|----------|----------|--------|
@@ -60,14 +68,14 @@
 
 ---
 
-## 📋 Requirements
+### 📋 Requirements
 
-### PHP Version
+#### PHP Version
 - PHP 7.0 or higher
 - SQLite3 extension
 - Telegram API access
 
-### Python Version
+#### Python Version
 - Python 3.7 or higher
 - Required libraries:
   - `python-telegram-bot`
@@ -75,9 +83,9 @@
 
 ---
 
-## 🔧 Installation
+### 🔧 Installation
 
-### 🐘 PHP Version
+#### 🐘 PHP Version
 
 1. Upload `bot.php` to your hosting
 
