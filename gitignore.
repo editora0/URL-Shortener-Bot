@@ -1,0 +1,38 @@
+# دیتابیس
+*.db
+*.sqlite
+*.sqlite3
+
+# فایل‌های لاگ
+*.log
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
+
+# فایل‌های PHP
+*.cache
+*.lock
+
+# فایل‌های Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# فایل‌های IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# فایل‌های موقت
+tmp/
+temp/
