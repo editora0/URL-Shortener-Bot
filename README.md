@@ -198,6 +198,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+Contact
+
+Developer: editor_a0
+Telegram: @editor_a0_ADM
+Channel: @editor_a0
+
+---
+
 <div align="center">
   <sub>Built with ❤️ for the Telegram community</sub>
 </div>
@@ -207,4 +215,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
   <a href="#top">⬆ Back to Top</a>
 </div>
-
