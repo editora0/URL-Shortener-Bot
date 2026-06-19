@@ -3,8 +3,8 @@
   <p><strong>A Powerful Telegram Bot for Shortening URLs with Full Admin Panel</strong></p>
   
   <p>
-    <a href="#english"><strong>English</strong></a> •
-    <a href="#persian"><strong>فارسی</strong></a>
+    <a href="#english-section"><strong>English</strong></a> •
+    <a href="#persian-section"><strong>فارسی</strong></a>
   </p>
   
   <p>
@@ -17,7 +17,8 @@
 
 ---
 
-<a id="english"></a>
+<div id="english-section"></div>
+
 ## English
 
 ### Features
