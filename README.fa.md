@@ -3,8 +3,8 @@
   <p><strong>یک ربات قدرتمند تلگرام برای کوتاه‌سازی لینک‌ها با پنل مدیریت کامل</strong></p>
   
   <p>
-    <a href="#english"><strong>English</strong></a> •
-    <a href="#persian"><strong>فارسی</strong></a>
+    <a href="#english-section"><strong>English</strong></a> •
+    <a href="#persian-section"><strong>فارسی</strong></a>
   </p>
   
   <p>
@@ -17,7 +17,8 @@
 
 ---
 
-<a id="persian"></a>
+<div id="persian-section"></div>
+
 ## فارسی
 
 ### ویژگی‌ها
