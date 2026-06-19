@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🤖 Telegram URL Shortener Bot</h1>
+  <h1>URL Shortener Bot</h1>
   <p><strong>A Powerful Telegram Bot for Shortening URLs with Full Admin Panel</strong></p>
   
   <p>
@@ -18,57 +18,33 @@
 ---
 
 <a id="english"></a>
-## 🇬🇧 English
+## English
 
-### ✨ Features
+### Features
 
-<table>
-  <tr>
-    <td>🔗 <b>URL Shortener</b></td>
-    <td>Shorten URLs using TinyURL API</td>
-  </tr>
-  <tr>
-    <td>👑 <b>Admin Panel</b></td>
-    <td>Complete management commands</td>
-  </tr>
-  <tr>
-    <td>📢 <b>Force Join</b></td>
-    <td>Require users to join a channel</td>
-  </tr>
-  <tr>
-    <td>⏱️ <b>Rate Limiting</b></td>
-    <td>Prevent spam with smart limits</td>
-  </tr>
-  <tr>
-    <td>💬 <b>Support System</b></td>
-    <td>Users can send messages to admin</td>
-  </tr>
-  <tr>
-    <td>📨 <b>Broadcast</b></td>
-    <td>Send messages to all users</td>
-  </tr>
-  <tr>
-    <td>🚫 <b>User Management</b></td>
-    <td>Ban/Unban users easily</td>
-  </tr>
-  <tr>
-    <td>💾 <b>SQLite Database</b></td>
-    <td>Lightweight and fast storage</td>
-  </tr>
-</table>
+| Icon | Feature | Description |
+|------|---------|-------------|
+| 🔗 | URL Shortener | Shorten URLs using TinyURL API |
+| 👑 | Admin Panel | Complete management commands |
+| 📢 | Force Join | Require users to join a channel |
+| ⏱️ | Rate Limiting | Prevent spam with smart limits |
+| 💬 | Support System | Users can send messages to admin |
+| 📨 | Broadcast | Send messages to all users |
+| 🚫 | User Management | Ban/Unban users easily |
+| 💾 | SQLite Database | Lightweight and fast storage |
 
 ---
 
-### 🚀 Versions
+### Versions
 
 | Version | Language | Best For | Method |
 |---------|----------|----------|--------|
-| **PHP** | PHP 7.0+ | Shared Hosting | Webhook |
-| **Python** | Python 3.7+ | VPS/Dedicated Server | Polling |
+| PHP | PHP 7.0+ | Shared Hosting | Webhook |
+| Python | Python 3.7+ | VPS/Dedicated Server | Polling |
 
 ---
 
-### 📋 Requirements
+### Requirements
 
 #### PHP Version
 - PHP 7.0 or higher
@@ -78,14 +54,14 @@
 #### Python Version
 - Python 3.7 or higher
 - Required libraries:
-  - `python-telegram-bot`
-  - `requests`
+  - python-telegram-bot
+  - requests
 
 ---
 
-### 🔧 Installation
+### Installation
 
-#### 🐘 PHP Version
+#### PHP Version
 
 1. Upload `bot.php` to your hosting
 
